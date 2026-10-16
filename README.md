@@ -21,5 +21,9 @@ Purchased a non-running, bare-chassis 1999 Mazda Miata delivered in parts and ex
   - Project Execution & Resilience: Managed end-to-end component mapping, assembly sequencing, and physical machine servicing without initial disassembly documentation.
 
 
-## Charts
+
+<img width="500"  alt="1" src="https://github.com/user-attachments/assets/bc7d6440-f73c-45c3-9122-01d7eaf86cdd" />
+<img width="500"  alt="2" src="https://github.com/user-attachments/assets/4a01cfbb-77f7-4ee4-b331-1e751b1cdf77" />
+<img width="500"  alt="3" src="https://github.com/user-attachments/assets/1d0f94d3-510b-478c-b9d8-8f43b64be3c3" />
+<img width="500"  alt="4" src="https://github.com/user-attachments/assets/c4887bf8-5a3a-4381-b23a-c9ac861a4b15" />
 
